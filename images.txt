@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-openmetadata/ingestion:latest
+#openmetadata/ingestion:latest
+docker/compose:1.29.2
