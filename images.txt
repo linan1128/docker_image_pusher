@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #openmetadata/ingestion:latest
-docker/compose:1.29.2
+#docker/compose:1.29.2
+docker.getcollate.io/openmetadata/ingestion:1.4.8
