@@ -7,4 +7,4 @@
 #openmetadata/ingestion:latest
 #docker/compose:1.29.2
 #docker.getcollate.io/openmetadata/ingestion:1.4.8
---platform=linux/arm64 mirrorgooglecontainers/defaultbackend-arm64:1.4
+mirrorgooglecontainers/defaultbackend-arm64:1.4
