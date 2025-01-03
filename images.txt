@@ -9,4 +9,5 @@
 #docker.getcollate.io/openmetadata/ingestion:1.4.8
 #mirrorgooglecontainers/defaultbackend-arm64:1.4
 #--platform=linux/arm64 docker.io/minio/mc:RELEASE.2022-11-07T23-47-39Z
-busybox:latest
+#busybox:latest
+line/kubectl-kustomize:1.20.4-4.0.5
