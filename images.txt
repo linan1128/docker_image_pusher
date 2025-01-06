@@ -12,9 +12,10 @@
 #busybox:latest
 #line/kubectl-kustomize:1.20.4-4.0.5
 #quay.io/ceph/ceph:v18
-registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.5.1
-registry.k8s.io/sig-storage/csi-provisioner:v3.2.1
-registry.k8s.io/sig-storage/csi-attacher:v3.5.0
-registry.k8s.io/sig-storage/csi-resizer:v1.5.0
-registry.k8s.io/sig-storage/csi-snapshotter:v6.0.1
+#registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.5.1
+#registry.k8s.io/sig-storage/csi-provisioner:v3.2.1
+#registry.k8s.io/sig-storage/csi-attacher:v3.5.0
+#registry.k8s.io/sig-storage/csi-resizer:v1.5.0
+#registry.k8s.io/sig-storage/csi-snapshotter:v6.0.1
 #quay.io/cephcsi/cephcsi:v3.13.0
+node:14-alpine
