@@ -18,4 +18,5 @@
 #registry.k8s.io/sig-storage/csi-resizer:v1.5.0
 #registry.k8s.io/sig-storage/csi-snapshotter:v6.0.1
 #quay.io/cephcsi/cephcsi:v3.13.0
-node:14-alpine
+#node:14-alpine
+busybox:latest
