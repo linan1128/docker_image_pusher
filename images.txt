@@ -20,6 +20,7 @@
 #quay.io/cephcsi/cephcsi:v3.13.0
 #busybox:latest
 #node:14-alpine
-docker.getcollate.io/openmetadata/db:1.6.6
-docker.getcollate.io/openmetadata/server:1.6.6
-docker.getcollate.io/openmetadata/ingestion:1.6.6
+#docker.getcollate.io/openmetadata/db:1.6.6
+#docker.getcollate.io/openmetadata/server:1.6.6
+#docker.getcollate.io/openmetadata/ingestion:1.6.6
+openjdk:17-jdk
